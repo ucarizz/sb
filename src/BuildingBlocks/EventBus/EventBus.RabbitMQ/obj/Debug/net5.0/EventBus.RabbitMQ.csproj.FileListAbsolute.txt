@@ -1,0 +1,15 @@
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/bin/Debug/net5.0/EventBus.RabbitMQ.deps.json
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/bin/Debug/net5.0/EventBus.RabbitMQ.dll
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/bin/Debug/net5.0/EventBus.RabbitMQ.pdb
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/bin/Debug/net5.0/EventBus.Base.dll
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/bin/Debug/net5.0/EventBus.Base.pdb
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net5.0/EventBus.RabbitMQ.csproj.AssemblyReference.cache
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net5.0/EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net5.0/EventBus.RabbitMQ.AssemblyInfoInputs.cache
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net5.0/EventBus.RabbitMQ.AssemblyInfo.cs
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net5.0/EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net5.0/EventBus.RabbitMQ.csproj.CopyComplete
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net5.0/EventBus.RabbitMQ.dll
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net5.0/refint/EventBus.RabbitMQ.dll
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net5.0/EventBus.RabbitMQ.pdb
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net5.0/ref/EventBus.RabbitMQ.dll

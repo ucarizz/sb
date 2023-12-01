@@ -1,0 +1,12 @@
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/bin/Debug/net5.0/EventBus.Base.deps.json
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/bin/Debug/net5.0/EventBus.Base.dll
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/bin/Debug/net5.0/EventBus.Base.pdb
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net5.0/EventBus.Base.csproj.AssemblyReference.cache
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net5.0/EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net5.0/EventBus.Base.AssemblyInfoInputs.cache
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net5.0/EventBus.Base.AssemblyInfo.cs
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net5.0/EventBus.Base.csproj.CoreCompileInputs.cache
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net5.0/EventBus.Base.dll
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net5.0/refint/EventBus.Base.dll
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net5.0/EventBus.Base.pdb
+/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net5.0/ref/EventBus.Base.dll

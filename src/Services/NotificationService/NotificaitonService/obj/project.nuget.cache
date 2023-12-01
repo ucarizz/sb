@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7wKP5zXD7FsHhhBBf6KmdqC7saH7hcT4gzSNj7jZ9akGa9Ca2YAMiti7fW6bTUT1kDvGE7D3q53eM94dvDpUYA==",
+  "success": true,
+  "projectFilePath": "/Users/muratucar/Projects/ucar/src/NotificationService/NotificaitonService/NotificaitonService.csproj",
+  "expectedPackageFiles": [
+    "/Users/muratucar/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/muratucar/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/muratucar/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/bin/Debug/net5.0/NotificaitonService
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/bin/Debug/net5.0/NotificaitonService.deps.json
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/bin/Debug/net5.0/NotificaitonService.runtimeconfig.json
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/bin/Debug/net5.0/NotificaitonService.runtimeconfig.dev.json
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/bin/Debug/net5.0/NotificaitonService.dll
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/bin/Debug/net5.0/NotificaitonService.pdb
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/obj/Debug/net5.0/NotificaitonService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/obj/Debug/net5.0/NotificaitonService.AssemblyInfoInputs.cache
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/obj/Debug/net5.0/NotificaitonService.AssemblyInfo.cs
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/obj/Debug/net5.0/NotificaitonService.csproj.CoreCompileInputs.cache
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/obj/Debug/net5.0/NotificaitonService.dll
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/obj/Debug/net5.0/refint/NotificaitonService.dll
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/obj/Debug/net5.0/NotificaitonService.pdb
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/obj/Debug/net5.0/NotificaitonService.genruntimeconfig.cache
+/Users/muratucar/Projects/ucar/src/Services/NotificationService/NotificaitonService/obj/Debug/net5.0/ref/NotificaitonService.dll

@@ -1,0 +1,11 @@
+/Users/muratucar/Projects/ucar/src/Services/OrderService/OrderService.Domain/bin/Debug/net5.0/OrderService.Domain.deps.json
+/Users/muratucar/Projects/ucar/src/Services/OrderService/OrderService.Domain/bin/Debug/net5.0/OrderService.Domain.dll
+/Users/muratucar/Projects/ucar/src/Services/OrderService/OrderService.Domain/bin/Debug/net5.0/OrderService.Domain.pdb
+/Users/muratucar/Projects/ucar/src/Services/OrderService/OrderService.Domain/obj/Debug/net5.0/OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratucar/Projects/ucar/src/Services/OrderService/OrderService.Domain/obj/Debug/net5.0/OrderService.Domain.AssemblyInfoInputs.cache
+/Users/muratucar/Projects/ucar/src/Services/OrderService/OrderService.Domain/obj/Debug/net5.0/OrderService.Domain.AssemblyInfo.cs
+/Users/muratucar/Projects/ucar/src/Services/OrderService/OrderService.Domain/obj/Debug/net5.0/OrderService.Domain.csproj.CoreCompileInputs.cache
+/Users/muratucar/Projects/ucar/src/Services/OrderService/OrderService.Domain/obj/Debug/net5.0/OrderService.Domain.dll
+/Users/muratucar/Projects/ucar/src/Services/OrderService/OrderService.Domain/obj/Debug/net5.0/refint/OrderService.Domain.dll
+/Users/muratucar/Projects/ucar/src/Services/OrderService/OrderService.Domain/obj/Debug/net5.0/OrderService.Domain.pdb
+/Users/muratucar/Projects/ucar/src/Services/OrderService/OrderService.Domain/obj/Debug/net5.0/ref/OrderService.Domain.dll

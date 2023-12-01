@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tjGNxi8SBsJ1CzY6BZkGtlzONtzmz7sb/mVealM9WZIaj1sWXlK4DyaAfOKZoVoYjwoukeQd7aqMgz/OgK5Yow==",
+  "success": true,
+  "projectFilePath": "/Users/muratucar/Projects/ucar/src/Services/OrderService/OrderService.Infrastructure/OrderService.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/muratucar/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/muratucar/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

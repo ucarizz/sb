@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vFG9y/GhnwoM0Ei+bK13wesH7W6H4sIRPjtOp5aabfFDWY5oeI1+PeILcuzFR6qvjVnmpQBCOORbJ4lQbxlOwg==",
+  "success": true,
+  "projectFilePath": "/Users/muratucar/Projects/ucar/src/BuildingBlocks/EventBus/EventBus.Base/EventBus.Base.csproj",
+  "expectedPackageFiles": [
+    "/Users/muratucar/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.0/microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "/Users/muratucar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/muratucar/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/muratucar/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/muratucar/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
